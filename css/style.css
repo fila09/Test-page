@@ -1,0 +1,19 @@
+body {
+   background-color: #403f3f;
+}
+
+.container {
+   width: 1170px;
+   margin: 0 auto;
+   padding: 150px 50px;
+   text-align: center;
+   color: #fff;
+}
+
+h1 {
+   font-size: 50px;
+}
+
+p {
+   font-size: 30px;
+}
